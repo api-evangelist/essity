@@ -1,0 +1,168 @@
+aid: essity
+name: Essity
+description: >-
+  Essity is a Swedish-headquartered global hygiene and health company operating
+  across four business areas: Health & Medical, Personal Care, Consumer Tissue,
+  and Professional Hygiene. The company is listed on Nasdaq Stockholm (ESSITY)
+  and owns roughly 40 brands including TENA (incontinence care), Tork
+  (professional hygiene), Libero (baby diapers), Libresse / Bodyform / Nana /
+  Saba / Nuvenia / Libra (feminine care), Modibodi and Knix (period underwear),
+  JOBST (compression hosiery), Leukoplast (adhesive bandages), Cutimed,
+  Sorbact, Hydrofera and Actimove (wound care, sports medicine, orthopedic
+  supports), Delta-Cast (casting), and consumer tissue brands Lotus, Zewa,
+  Tempo, Cushelle, Plenty, Velvet, Regio, Sorbent and Purex. No public
+  developer-facing APIs or developer portal have been identified for Essity;
+  this repository tracks corporate, brand, sustainability, investor, and
+  integration surfaces for ongoing API discovery. The company's Tork brand
+  ships a connected washroom data platform — Tork Vision Cleaning — which is
+  the closest thing to a public data surface in the portfolio.
+kind: contract
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Consumer Goods
+  - Consumer Products
+  - Hygiene
+  - Health
+  - Personal Care
+  - Tissue
+  - Incontinence Care
+  - Feminine Care
+  - Baby Care
+  - Wound Care
+  - Compression Therapy
+  - Professional Hygiene
+  - Sustainability
+  - Sweden
+  - Nasdaq Stockholm
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/essity/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.essity.com
+  - type: AboutUs
+    url: https://www.essity.com/this-is-essity/
+  - type: Brands
+    url: https://www.essity.com/brands/
+  - type: InvestorRelations
+    url: https://www.essity.com/investors/
+  - type: Sustainability
+    url: https://www.essity.com/sustainability/
+  - type: AnnualReport
+    url: https://www.essity.com/investors/reports-and-presentations/
+  - type: News
+    url: https://www.essity.com/media/press-release/
+  - type: Media
+    url: https://www.essity.com/media/
+  - type: Careers
+    url: https://career.essity.com
+  - type: Innovation
+    url: https://www.essity.com/innovation/
+  - type: Suppliers
+    url: https://www.essity.com/suppliers/
+  - type: ContactUs
+    url: https://www.essity.com/contact/
+  - type: PrivacyPolicy
+    url: https://www.essity.com/cookies-and-privacy-policy/
+  - type: TermsOfService
+    url: https://www.essity.com/legal-information/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/essity
+  - type: GitHubOrganization
+    url: https://github.com/essity
+  - type: BrandSite
+    name: TENA (Incontinence Care)
+    url: https://www.tena.com
+  - type: BrandSite
+    name: Tork (Professional Hygiene)
+    url: https://www.tork.com
+  - type: BrandSite
+    name: Tork Vision Cleaning (Connected Washroom Data Platform)
+    url: https://www.tork.com/visioncleaning
+  - type: BrandSite
+    name: Libero (Baby Care)
+    url: https://www.libero.se
+  - type: BrandSite
+    name: Libresse (Feminine Care)
+    url: https://www.libresse.com
+  - type: BrandSite
+    name: Bodyform (Feminine Care, UK)
+    url: https://www.bodyform.co.uk
+  - type: BrandSite
+    name: Modibodi (Period Underwear)
+    url: https://www.modibodi.com
+  - type: BrandSite
+    name: Knix (Period Underwear)
+    url: https://knix.com
+  - type: BrandSite
+    name: JOBST (Compression Hosiery)
+    url: https://www.jobst.com
+  - type: BrandSite
+    name: Leukoplast (Adhesive Bandages)
+    url: https://www.leukoplast.com
+  - type: BrandSite
+    name: Cutimed (Wound Care)
+    url: https://www.cutimed.com
+  - type: BrandSite
+    name: Actimove (Orthopedic Supports)
+    url: https://www.actimove.com
+  - type: BrandSite
+    name: Sorbact (Antimicrobial Wound Care)
+    url: https://www.sorbact.com
+  - type: BrandSite
+    name: Hydrofera (Advanced Wound Care)
+    url: https://www.hydrofera.com
+  - type: BrandSite
+    name: Delta-Cast (Orthopedic Casting)
+    url: https://www.bsnmedical.com
+  - type: BrandSite
+    name: Lotus (Consumer Tissue, France)
+    url: https://www.lotus.fr
+  - type: BrandSite
+    name: Zewa (Consumer Tissue, DACH)
+    url: https://www.zewa.net
+  - type: BrandSite
+    name: Tempo (Facial Tissue)
+    url: https://www.tempo-tissues.com
+  - type: BrandSite
+    name: Cushelle (UK Toilet Tissue)
+    url: https://www.cushelle.com
+  - type: BrandSite
+    name: Plenty (Paper Towels)
+    url: https://www.plentykitchenroll.co.uk
+  - type: BrandSite
+    name: Velvet (Premium Tissue)
+    url: https://www.velvettissue.co.uk
+  - type: BrandSite
+    name: Regio (Mexican Tissue)
+    url: https://www.regio.mx
+  - type: BrandSite
+    name: Sorbent (Australia Tissue)
+    url: https://www.sorbent.com.au
+  - type: BrandSite
+    name: Purex (New Zealand Tissue)
+    url: https://www.purex.co.nz
+  - type: BrandSite
+    name: Saba (Mexico Feminine Care)
+    url: https://www.saba.com.mx
+  - type: BrandSite
+    name: Nosotras (Colombia Feminine Care)
+    url: https://www.nosotrasonline.com.co
+  - type: BrandSite
+    name: Nana (France Feminine Care)
+    url: https://www.nana.fr
+  - type: BrandSite
+    name: Nuvenia (Italy Feminine Care)
+    url: https://www.nuvenia.it
+  - type: BrandSite
+    name: Libra (Australia Feminine Care)
+    url: https://www.libragirl.com.au
+  - type: BrandSite
+    name: TOM Organic (Organic Period Care)
+    url: https://www.tomorganic.com.au
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
