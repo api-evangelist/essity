@@ -41,6 +41,8 @@ modified: '2026-05-23'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/essity-domain-security.yml
   - type: Website
     url: https://www.essity.com
   - type: AboutUs
